@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing:content-box;
+}
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:content-box;
+}
+
+header .titulo {
+    background: #deb17a;
+    position: center;
+    border-style:dashed;
+}
+
+body {
+    background-color: darkgray;
+
+}
+
+
+section ul li a{
+    margin-right: 20px;
+    color: black;
+}
+
+nav ul li a{
+    margin-right: 200px;
+    text-decoration:none ;
+}
+
+section ul .item.separator{
+    height: 1px;
+    border-bottom: solid 1px black;
+    margin: 15px 0;
+}
